@@ -479,7 +479,7 @@ button.hint {
 #header {
 	width: 100%;
 	padding: 1px;
-	background-color: #408697;
+	background-color: #8d8c8a;  /* header bar*/
 	color: #FFF;
 	-webkit-app-region: drag;
 }
