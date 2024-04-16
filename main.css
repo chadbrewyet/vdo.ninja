@@ -476,7 +476,7 @@ button.hint {
 	display: inline-block;
 	color: #e0dfdf;
 }
-#header {
+#er {
 	width: 100%;
 	padding: 1px;
 	background-color: #8d8c8a;  /* header bar*/
@@ -488,6 +488,12 @@ button.hint {
 	padding:1px;
 	position: relative;
 	-webkit-app-region: no-drag;
+}
+#head3{
+	-color: #0a0a0a;
+}
+#head3a{
+	-color: #e1e1e1;
 }
 #head4{
 	-webkit-app-region: no-drag;
