@@ -64,8 +64,8 @@
 	--codirector-dark-box: rgb(129 127 127);
 
 	/* Original colors */
-	--background-color: #D9B08C;
-	--dark-background-color: #2C3531;
+	--background-color: #8d8c8a; /* background color light*/
+	--dark-background-color: #363538; /* background color dark */
 	--container-color: #D1E8E2;
 	--button-color: #116466;
 	--blue-accent: #4a4c63;
